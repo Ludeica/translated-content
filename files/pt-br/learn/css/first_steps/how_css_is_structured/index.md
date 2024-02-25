@@ -470,7 +470,7 @@ p {
 
 ## Espaçamento
 
-Espaços em branco significam espaços, tabulações e novas linhas. Da mesma forma que no HTML, o navegador tende a ignorar grande parte do espaçamento dentro do seu CSS; grande parte do espaçamento está presente apenas para ajudar na legibilidade.
+Espaços em branco significam espaços, tabulações e novas linhas. Da mesma forma que no HTML, o navegador tende a ignorar grande parte do espaçamento, dentro do seu CSS, grande parte do espaçamento está presente apenas para ajudar na legibilidade.
 
 No exemplo abaixo, temos cada declaração (e início/fim de regra) em sua própria linha - essa é uma maneira recomendada de escrever CSS, já que torna fácil manter e entender:
 
